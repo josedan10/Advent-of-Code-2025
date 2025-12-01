@@ -1,0 +1,2 @@
+# This file should contain the example input from the problem statement
+# Replace this with the actual test input when available
