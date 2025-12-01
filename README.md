@@ -22,6 +22,22 @@ Each day's folder contains:
 
 ## 🚀 Getting Started
 
+**New to this repository? Check out the [Quick Start Guide](QUICKSTART.md)!**
+
+### Quick Setup
+
+Use the provided script to create a new day's template:
+
+```bash
+python create_day.py <day_number> [language]
+```
+
+Example:
+```bash
+python create_day.py 5        # Create Day 5 with Python
+python create_day.py 10 js    # Create Day 10 with JavaScript
+```
+
 ### Prerequisites
 
 Depending on the language used for each solution, you may need:
